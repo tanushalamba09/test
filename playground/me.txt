@@ -1,0 +1,7 @@
+Paste your details in the following format:
+
+{{#user}}
+Name: Tanusha Lamba
+Skills: HTML, CSS, JS, Machine Learning, Python
+Email: 1tanusha.lamba@gmail.com
+{{/user}}
